@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "codeception/codeception": "^5.3",
+        "codeception/module-rest": "^3.4",
+        "codeception/module-phpbrowser": "^4.0",
+        "codeception/module-asserts": "^3.3"
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
